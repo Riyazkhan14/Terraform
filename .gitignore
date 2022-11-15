@@ -1,2 +1,4 @@
 *.lock.hcl
 *.tfstate
+day1/.terrafom/
+aws_creds.txt
