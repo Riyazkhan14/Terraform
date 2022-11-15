@@ -1,4 +1,4 @@
 *.lock.hcl
 *.tfstate
-day1/.terrafom/
+day1/.terraform/
 aws_creds.txt
