@@ -6,7 +6,7 @@ Creating / Provisioning the Infrastructure (IaaC)
 - S3
 - VPC
 - Security Groups
-- ELS
+- ELB
 - RDS
 - Invoking Scripts/Commands
 
