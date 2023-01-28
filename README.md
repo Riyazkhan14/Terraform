@@ -1,7 +1,7 @@
 # Terraform
 Creating / Provisioning the Infrastructure (IaaC)
 1. Everyone can practise the code to create Infra on AWS.
-2. Everyone can alse create Service wise infra using terraform:
+2. Everyone can also create Service wise infra using terraform:
 - EC2
 - S3
 - VPC
